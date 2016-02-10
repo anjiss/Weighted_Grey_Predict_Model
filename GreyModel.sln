@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GreyModel", "GreyModel\GreyModel.vcproj", "{7718A6C9-9C45-4F0D-AC62-C134392ABFDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7718A6C9-9C45-4F0D-AC62-C134392ABFDB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7718A6C9-9C45-4F0D-AC62-C134392ABFDB}.Debug|Win32.Build.0 = Debug|Win32
+		{7718A6C9-9C45-4F0D-AC62-C134392ABFDB}.Release|Win32.ActiveCfg = Release|Win32
+		{7718A6C9-9C45-4F0D-AC62-C134392ABFDB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
